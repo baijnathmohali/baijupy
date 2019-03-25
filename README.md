@@ -1,2 +1,2 @@
 # baijupy
-its my first github respository
+its my first github respository in github
